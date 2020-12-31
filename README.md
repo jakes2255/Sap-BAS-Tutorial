@@ -1,4 +1,4 @@
-# SapBASTutorial
+# Sap BAS Tutorial
 
 ![alt text](https://img.shields.io/badge/SAP-UI5-blue "SAPUI5")
 ![alt text](https://img.shields.io/badge/Bus.App-Studio-yellowgreen "Bus.App Studio")
